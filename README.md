@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Ramiz Belim
+
+[![Twitter Badge](https://img.shields.io/badge/-Ramiz_Belim-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ramizbelim1406)](https://twitter.com/ramizbelim1406)  [![Linkedin Badge](https://img.shields.io/badge/-ramiz_belim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramiz-belim//)](https://www.linkedin.com/in/ramiz-belim/) [![Gmail Badge](https://img.shields.io/badge/-ramizbelim0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramizbelim0@gmail.com)](mailto:ramizbelim0@gmail.com)
 
 <!--
 **ramizbelim/ramizbelim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
