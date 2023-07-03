@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -  **Hobbies :** Sports 🏏
 -  **Fact :** First solve the problem, then write the code :heart:
 
-⭐️ From [Isha Gupta](https://github.com/ramizbelim)
+⭐️ From [Ramiz Belim](https://github.com/ramizbelim)
