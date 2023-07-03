@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About
+
+-  **Learning :** Python Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, JavaScript
+-  **Hobbies :** Sports 🏏
+-  **Fact :** First solve the problem, then write the code :heart:
+
+⭐️ From [Isha Gupta](https://github.com/ramizbelim)
